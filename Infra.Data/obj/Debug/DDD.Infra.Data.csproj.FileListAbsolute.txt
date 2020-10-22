@@ -1,0 +1,14 @@
+C:\Users\Administrador\source\repos\DDD.WebApi\Infra.Data\bin\Debug\Infra.Data.dll.config
+C:\Users\Administrador\source\repos\DDD.WebApi\Infra.Data\bin\Debug\Infra.Data.dll
+C:\Users\Administrador\source\repos\DDD.WebApi\Infra.Data\bin\Debug\Infra.Data.pdb
+C:\Users\Administrador\source\repos\DDD.WebApi\Infra.Data\bin\Debug\Domain.dll
+C:\Users\Administrador\source\repos\DDD.WebApi\Infra.Data\bin\Debug\EntityFramework.dll
+C:\Users\Administrador\source\repos\DDD.WebApi\Infra.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Administrador\source\repos\DDD.WebApi\Infra.Data\bin\Debug\Domain.pdb
+C:\Users\Administrador\source\repos\DDD.WebApi\Infra.Data\bin\Debug\EntityFramework.xml
+C:\Users\Administrador\source\repos\DDD.WebApi\Infra.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Administrador\source\repos\DDD.WebApi\Infra.Data\obj\Debug\DDD.Infra.Data.csprojAssemblyReference.cache
+C:\Users\Administrador\source\repos\DDD.WebApi\Infra.Data\obj\Debug\DDD.Infra.Data.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\source\repos\DDD.WebApi\Infra.Data\obj\Debug\DDD.Infra.Data.csproj.CopyComplete
+C:\Users\Administrador\source\repos\DDD.WebApi\Infra.Data\obj\Debug\Infra.Data.dll
+C:\Users\Administrador\source\repos\DDD.WebApi\Infra.Data\obj\Debug\Infra.Data.pdb
