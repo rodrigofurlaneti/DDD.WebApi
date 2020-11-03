@@ -105,3 +105,15 @@ C:\Users\Administrador\source\repos\DDD.WebApi\MVC.WebApi\bin\ko\System.Spatial.
 C:\Users\Administrador\source\repos\DDD.WebApi\MVC.WebApi\bin\ru\System.Spatial.resources.dll
 C:\Users\Administrador\source\repos\DDD.WebApi\MVC.WebApi\bin\zh-Hans\System.Spatial.resources.dll
 C:\Users\Administrador\source\repos\DDD.WebApi\MVC.WebApi\bin\zh-Hant\System.Spatial.resources.dll
+C:\Users\Administrador\source\repos\DDD.WebApi\MVC.WebApi\bin\AutoMapper.Net4.dll
+C:\Users\Administrador\source\repos\DDD.WebApi\MVC.WebApi\bin\AutoMapper.dll
+C:\Users\Administrador\source\repos\DDD.WebApi\MVC.WebApi\bin\Domain.dll
+C:\Users\Administrador\source\repos\DDD.WebApi\MVC.WebApi\bin\Infra.Data.dll
+C:\Users\Administrador\source\repos\DDD.WebApi\MVC.WebApi\bin\EntityFramework.dll
+C:\Users\Administrador\source\repos\DDD.WebApi\MVC.WebApi\bin\Domain.pdb
+C:\Users\Administrador\source\repos\DDD.WebApi\MVC.WebApi\bin\Infra.Data.pdb
+C:\Users\Administrador\source\repos\DDD.WebApi\MVC.WebApi\bin\Infra.Data.dll.config
+C:\Users\Administrador\source\repos\DDD.WebApi\MVC.WebApi\bin\AutoMapper.xml
+C:\Users\Administrador\source\repos\DDD.WebApi\MVC.WebApi\bin\EntityFramework.xml
+C:\Users\Administrador\source\repos\DDD.WebApi\MVC.WebApi\bin\EntityFramework.SqlServer.dll
+C:\Users\Administrador\source\repos\DDD.WebApi\MVC.WebApi\bin\EntityFramework.SqlServer.xml

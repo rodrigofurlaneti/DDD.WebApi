@@ -41,7 +41,22 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Interfaces\IAppServiceBase.cs" />
+    <Compile Include="Interfaces\IClientAppService.cs" />
+    <Compile Include="Interfaces\IClientProductAppService.cs" />
+    <Compile Include="Interfaces\IProductAppService.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Services\AppServiceBase.cs" />
+    <Compile Include="Services\ClientAppServicecs.cs" />
+    <Compile Include="Services\ClientProductAppService.cs" />
+    <Compile Include="Services\ProductAppService.cs" />
+  </ItemGroup>
+  <ItemGroup />
+  <ItemGroup>
+    <ProjectReference Include="..\Domain\DDD.Domain.csproj">
+      <Project>{BC3D9CCC-8962-4528-B385-127CCA4C7F07}</Project>
+      <Name>DDD.Domain</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

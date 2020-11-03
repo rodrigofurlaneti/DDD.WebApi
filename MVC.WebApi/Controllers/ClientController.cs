@@ -1,18 +1,23 @@
-﻿using System;
+﻿using AutoMapper;
+using Domain.Entities;
+using Domain.Interfaces;
+using Infra.Data.Repositories;
+using MVC.WebApi.ViewModel;
+using Newtonsoft.Json;
 using System.Collections.Generic;
 using System.Linq;
-using System.Net;
-using System.Net.Http;
 using System.Web.Http;
-
 namespace MVC.WebApi.Controllers
 {
     public class ClientController : ApiController
     {
+        private readonly ClientRepository _clientRepository = new ClientRepository();
         // GET: api/Client
         public IEnumerable<string> Get()
         {
-            return new string[] { "value1", "value2" };
+            var clientViewModel = Mapper.Map<IEnumerable<Client>, IEnumerable<ClientViewModel>>(_clientRepository.GetAll());
+            string json = JsonConvert.SerializeObject(clientViewModel);
+            return new string[] { json };
         }
 
         // GET: api/Client/5
